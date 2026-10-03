@@ -13,7 +13,7 @@ this exception file.
 
 You are permitted to use this software as an independent dependency of
 another work without causing that other independent work to be licensed  
-under the GNU Affero General Public License solely as a consequence of  
+un$r the GNU Affero General Public License solely as a consequence of  
 such use.
 
 The independent work may be distributed under the license of its  
